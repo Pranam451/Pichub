@@ -18,51 +18,61 @@ function trending() {
   removeImg();
   document.getElementById("input").value = "trending";
   loadImg();
+  input.value = "";
 }
 function popular() {
   removeImg();
   document.getElementById("input").value = "popular";
   loadImg();
+  input.value = "";
 }
 function wallpaper() {
   removeImg();
   document.getElementById("input").value = "wallpaper";
   loadImg();
+  input.value = "";
 }
 function fashion() {
   removeImg();
   document.getElementById("input").value = "fashion";
   loadImg();
+  input.value = "";
 }
 function fitness() {
   removeImg();
   document.getElementById("input").value = "fitness";
   loadImg();
+  input.value = "";
 }
 function nature() {
   removeImg();
   document.getElementById("input").value = "nature";
   loadImg();
+  input.value = "";
 }
 function architecture() {
   removeImg();
   document.getElementById("input").value = "architecture";
   loadImg();
+  input.value = "";
 }
 function technology() {
   removeImg();
   document.getElementById("input").value = "technology";
   loadImg();
+  input.value = "";
 }
 function travel() {
   removeImg();
   document.getElementById("input").value = "travel";
   loadImg();
+  input.value = "";
 }
 function animal() {
   removeImg();
   document.getElementById("input").value = "animal";
   loadImg();
+  input.value = "";
 }
 function homeInputBtn() {
   removeImg();
